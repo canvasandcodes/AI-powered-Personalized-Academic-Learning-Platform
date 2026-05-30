@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+uploads/
+vectorstore/
+
+exports/
+
+.streamlit/
+
+data/
+
+.ipynb_checkpoints/

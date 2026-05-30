@@ -1,0 +1,11 @@
+streamlit
+llama-parse
+python-dotenv
+pypdf
+sentence-transformers
+faiss-cpu
+numpy
+google-generativeai
+plotly
+pandas
+reportlab
