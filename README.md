@@ -266,9 +266,9 @@ Lumora AI demonstrates how Artificial Intelligence and Retrieval-Augmented Gener
 
 ## Developed By
 
-Namita S
-MSc Data Science
-Symbiosis International University
+Namita S, 
+MSc Data Science, 
+Symbiosis International University.
 
 ---
 
